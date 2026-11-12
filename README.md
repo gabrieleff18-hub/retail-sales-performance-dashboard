@@ -32,7 +32,7 @@ Using sales records and store management information, the dashboard provides an 
 ```text
 retail-sales-performance-dashboard/
 │
-├── analise_organizada_final.ipynb
+├── analise_organizada.ipynb
 ├── vendas.csv
 ├── gerentes_lojas.xlsx
 ├── requirements.txt
@@ -55,7 +55,7 @@ git clone https://github.com/YOUR-USERNAME/retail-sales-performance-dashboard.gi
 pip install -r requirements.txt
 ```
 
-4. Open `analise_organizada_final.ipynb` in Jupyter Notebook or VS Code.
+4. Open `analise_organizada.ipynb` in Jupyter Notebook or VS Code.
 
 5. Run the notebook cells in order.
 
