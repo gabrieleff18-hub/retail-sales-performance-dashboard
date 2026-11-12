@@ -32,6 +32,11 @@ Using sales records and store management information, the dashboard provides an 
 ```text
 retail-sales-performance-dashboard/
 │
+├── images/
+│   ├── dashboard-overview.png
+│   ├── sales-analysis.png
+│   └── sales-targets.png
+│
 ├── analise_organizada.ipynb
 ├── vendas.csv
 ├── gerentes_lojas.xlsx
@@ -44,7 +49,7 @@ retail-sales-performance-dashboard/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/retail-sales-performance-dashboard.git
+git clone https://github.com/gabrieleff18-hub/retail-sales-performance-dashboard.git
 ```
 
 2. Open the project folder.
