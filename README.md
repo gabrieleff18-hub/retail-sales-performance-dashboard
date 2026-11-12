@@ -76,3 +76,14 @@ It also provided an opportunity to work with performance indicators and transfor
 ---
 
 **Developed as a data analysis portfolio project.**
+
+## Dashboard Preview
+
+### Sales Performance
+![Dashboard overview](images/dashboard-overview.png)
+
+### Sales Analysis
+![Sales analysis](images/sales-analysis.png)
+
+### Sales Targets
+![Sales targets](images/sales-targets.png)
